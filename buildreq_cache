@@ -1,3 +1,5 @@
-1.26
-perl(Number::Misc)
-perl(Test::Toolbox)
+1.30
+perl(ExtUtils::Config)
+perl(ExtUtils::Helpers)
+perl(ExtUtils::InstallPaths)
+perl(Module::Build::Tiny)
