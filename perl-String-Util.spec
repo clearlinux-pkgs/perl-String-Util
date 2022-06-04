@@ -4,7 +4,7 @@
 #
 Name     : perl-String-Util
 Version  : 1.32
-Release  : 14
+Release  : 15
 URL      : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.32.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.32.tar.gz
 Summary  : 'String processing utility functions'
@@ -96,4 +96,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/String/Util.pm
+/usr/lib/perl5/*
