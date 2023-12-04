@@ -4,7 +4,7 @@
 #
 Name     : perl-String-Util
 Version  : 1.34
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.34.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.34.tar.gz
 Summary  : 'String processing utility functions'
