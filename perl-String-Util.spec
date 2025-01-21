@@ -7,7 +7,7 @@
 #
 Name     : perl-String-Util
 Version  : 1.35
-Release  : 22
+Release  : 23
 URL      : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.35.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/B/BA/BAKERSCOT/String-Util-1.35.tar.gz
 Summary  : unknown
